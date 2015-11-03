@@ -1,10 +1,11 @@
 gr-Umbrella
 ===========
-An out-of-tree module for GNU Radio with IT++.
+An out-of-tree module for GNU Radio with IT++ and binary to decimal converter with C++ and Python.
 
 Prerequisites:
 
-GNU Radio IT++
+GNU Radio 
+IT++
 
 See these steps fow a quick build guide.
 
