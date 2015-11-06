@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <block>
-  <name>Convolutional Encoder</name>
+  <name>Convolutional Encoder IT++</name>
   <key>Umbrella_encodconv_cpp_vff</key>
   <category>Umbrella</category>
   <import>import Umbrella</import>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <block>
-  <name>Convolutional Decoder</name>
+  <name>Convolutional Decoder IT++</name>
   <key>Umbrella_decodconv_cpp_ff</key>
   <category>Umbrella</category>
   <import>import Umbrella</import>
